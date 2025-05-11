@@ -1,0 +1,19 @@
+# 📌 Use Case Diagram – Airbnb Clone Backend
+
+This diagram visualizes the core interactions between system users (Guests, Hosts, Admins) and the Airbnb backend system. It outlines the major functionalities users can perform and their roles in the system.
+
+## ✅ Key Actors:
+- **Guest**: Registers, searches listings, books properties, makes payments, and leaves reviews.
+- **Host**: Registers, lists properties, manages listings, accepts/rejects bookings, and responds to reviews.
+- **Admin**: Manages users, listings, and bookings; oversees all platform operations.
+
+## 🧩 Key Use Cases:
+- **User Registration/Login**: Allow users to create and manage accounts.
+- **Manage Listings**: Hosts can add, update, or remove property listings.
+- **Search & Filter Listings**: Guests can search based on location, price, etc.
+- **Booking**: Guests can request bookings; hosts approve or decline.
+- **Payments**: Secure payments are processed for bookings.
+- **Reviews & Ratings**: Guests and hosts can share feedback.
+- **Admin Management**: Admins monitor platform data and perform moderation.
+
+
